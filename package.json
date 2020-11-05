@@ -1,0 +1,19 @@
+{
+  "name": "getmescreenshot",
+  "version": "0.0.1",
+  "description": "Simple full screenshot taker for any website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "screenshot",
+    "automation"
+  ],
+  "author": "Gunn Bay",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "puppeteer": "^5.4.1"
+  }
+}
